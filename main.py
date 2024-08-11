@@ -15,8 +15,8 @@ if login == "thedevz29isdeveloper":
             print(x)
         elif c == "prtadmin()":
             print("The owner and administrator of this system is Atharv Sharma")
-        elif c == "google()":
-            print("oh its u Atharv") 
+        elif c == "thedevz29()":
+            print("oh its u thedevz29") 
         elif c == "exit()":
             print("OK")
             break
