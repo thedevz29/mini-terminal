@@ -1,4 +1,4 @@
-#A mini terminal with commands decided by me
+#A mini terminal with commands decided by me - Atharv Sharma 
 from datetime import datetime
 import math
 import turtle
